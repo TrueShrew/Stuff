@@ -1,1 +1,1 @@
-local a=game:GetService("CoreGui"):FindFirstChild("liillililili")if not a then local b=Instance.new("ScreenGui")local c=Instance.new("UIListLayout")b.Name="liillililililiillililili"b.Parent=game.CoreGui;b.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;b.ResetOnSpawn=false;c.Name="ilillililiilil"c.Parent=b;c.HorizontalAlignment=Enum.HorizontalAlignment.Right;c.SortOrder=Enum.SortOrder.LayoutOrder;c.VerticalAlignment=Enum.VerticalAlignment.Bottom;c.Padding=UDim.new(0,20)end
+nil
