@@ -1,5 +1,3 @@
-
-
 local function a(b, c)
 	local d = getfenv(c)
 	local e =
